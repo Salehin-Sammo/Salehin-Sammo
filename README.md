@@ -20,7 +20,7 @@ I red-team the agents I build before they ship — prompt injection, permission 
 
 ### 🔭 Currently
 
-- **Master of Research (AI & Data Analytics)** @ Melbourne Institute of Technology — *Post-Quantum Cryptography migration for Australian payments infrastructure*
+- **Master of Research (AI & Data Analytics)** @ MIT — *Post-Quantum Cryptography migration for Australian payments infrastructure*
 - **AI & Full-Stack Engineer** @ Endeavour Consultants — shipping production Azure / .NET platforms end-to-end
 
 ### 🧪 Research
