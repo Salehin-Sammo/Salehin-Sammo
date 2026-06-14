@@ -36,7 +36,7 @@ I red-team the agents I build before they ship — prompt injection, permission 
 
 | Project | Stack |
 |---|---|
-| **Tilt** — cloud-native education platform | Azure · .NET 9 · Next.js · 11 Terraform modules · Azure AI Document Intelligence · Copilot Studio + Direct Line · Microsoft Graph |
+| **Tilt** — cloud-native education platform | Azure Container Apps · .NET 9 · Next.js 16 / React 19 · Terraform (3-tier VNet, private PostgreSQL) · Azure OpenAI · AI Document Intelligence · Microsoft Graph · SignalR |
 | **CRM Platform** — replaced manual ops org-wide | ASP.NET Core · Next.js · PostgreSQL · JWT RBAC · AWS (ECS/RDS/S3) via Terraform · AWS Textract OCR + multi-country MRZ passport parsing |
 | **Clinical summarisation** (Your Community Health) | On-prem BERT fine-tuning (50% → 80% accuracy) · RAG over EMR records · Flask microservice |
 | **[BioMRC](https://github.com/Salehin-Sammo/BioMRC)** — medical QA research | BERT fine-tuning on CPGQA / SQuAD · Swinburne undergraduate research |
